@@ -1,0 +1,2 @@
+[2021-04-07 10:30:24] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (RMAN_ArchiveLog.sh)  is already running', 'job_id': 202, 'tg_job_dtl_id': 11167891}
+[2021-04-07 13:02:15] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167889}

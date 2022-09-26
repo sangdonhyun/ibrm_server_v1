@@ -1,0 +1,13 @@
+[2021-04-04 00:10:16] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 162, 'tg_job_dtl_id': 11167673}
+[2021-04-04 03:10:15] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 162, 'tg_job_dtl_id': 11167681}
+[2021-04-04 06:10:09] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 162, 'tg_job_dtl_id': 11167688}
+[2021-04-04 07:00:28] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (RMAN_Incr_Level1.sh)  is already running', 'job_id': 166, 'tg_job_dtl_id': 11167690}
+[2021-04-04 08:00:19] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167694}
+[2021-04-04 09:00:10] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167697}
+[2021-04-04 10:00:31] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167700}
+[2021-04-04 11:00:22] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167703}
+[2021-04-04 12:00:13] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167706}
+[2021-04-04 13:00:34] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167709}
+[2021-04-04 14:00:24] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 161, 'tg_job_dtl_id': 11167712}
+[2021-04-04 15:00:15] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 163, 'tg_job_dtl_id': 11167715}
+[2021-04-04 20:00:12] [60005] iBRM Job Already run shell script ==> {'memo': 'this job (IBRM_ArchiveLog.sh)  is already running', 'job_id': 163, 'tg_job_dtl_id': 11167726}
