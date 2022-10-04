@@ -644,10 +644,11 @@ FROM
         return job_info
 
     def set_hs_job_dtl_udt(self, job_id, tg_job_dtl_id):
+        #20221004 user_yn = y 로
         query = """
                 UPDATE store.hs_job_dtl SET 
-                upd_stat = 'Y', 
-                use_yn= 'N', 
+                upd_stat = 'M', 
+                use_yn= 'Y', 
                 mod_dt = TO_CHAR(now(), 'YYYYMMDDHH24MISS')  WHERE job_id = '{JOB_ID}'  AND tg_job_dtl_id='{TG_JOB_DTL_ID}' 
         """.format(JOB_ID=job_id, TG_JOB_DTL_ID=tg_job_dtl_id)
         self.log.info('query: {}'.format(query))
